@@ -1,0 +1,775 @@
+Update (April 10) Tweaks + bug fixes:
+-doubled wrong-biome damage
+-tweaked acorn xp, fixed mushroom bush xp
+-we're doing a test cross-promo with our friends at moomoo.io
+
+Update(April 9) Colossal Black Dragon!
+-NEW: Black dragon animal! (10m xp needed, downgrades if you lose too much xp, only heals from healing stones)
+-Black dragons live in the NEW lava biome, in the middle of the map
+-NEW: healing stones: magic pink stones across the that heal your health+ give xp +water
+-BIG Healing stones in lava heal 3x faster!
+-NEW: Meat! 3 kinds, Dropped by animals on death from natural causes (eg. lava, thirst!)
+-NEW: Watermellon food, spawns in lava, very good xp (but dangerous to get!)
+-Arctic: was reduced in size (land/ocean increased), many tweaks in food/ice
+-Arctic: Animals no longer can teleport TO the arctic on upgrade- must upgrade IN the arctic to be an arctic animal!
+-Arctic: non-arctic animals in the arctic will get cold every 15s, arctic animals outside the arctic will get hot! (causes a bit of damage)
+-Arctic: Chipmunk bots added, ice is 2x more slippery (for most animals)
+-black dragons only heal when on lava, or from healing stones
+-black dragons unlock triple-fireballs
+-dragons/krakens/yetis can now use big hiding holes (hide from the black drag!)
+-# servers reduced, to increase player concentration
+-dozens of other tweaks not mentioned here!
+
+Update(March 24) Rapid Rivers!
+-NEW: Rivers flow between oceans in mope.io!
+-Certain animals are unaffected by the river current: Croc, hippo
+-NEW: abilities can push/damage food (eg. mushroom bushes)! Plus, kraken sucks up all food!
+-NEW: Snails have come alive (first basic AI)! They love to eat plankton, hide in shells! (And bite your tail!)
+-orca wave ability buffed (longer stun, more damage)
+-Lots of tweaks to food concentration, respawn rates
+-squid and seahorse swapped, fox and deer swapped (deer can use mini hiding holes now)
+-rhino can charge in water now
+-NEW: lake islands have better food now, bushes on land can spawn blackberries + pears
+-red berries give 1.5xp each now, not 1
+-players now get 65% of xp from killing another player, not 40-50%
+--NEW: bushes on land can spawn blackberries/pears, lakes, lake islands, and mud spots have better food now
+-snails give up to 4k xp now
+-The mope.io team is growing, and we are preparing more great content for you guys! Be sure to leave feedback on reddit!
+
+Update(March 17):
+-Check out our poll on the new ocean update: https://goo.gl/YME2lk
+-Fixed https site issues, optimized new graphics performance
+-fixed bugs with new food (eg. snail)
+-more updates coming soon- Including: snails will come alive!
+
+Update(March 14) HUGE OCEAN UPDATE:
+-NEW: complete ocean redesign! Over 6 new foods and a new theme!
+-NEW: overflowing ocean water, and beaches! (Beaches spawn certain foods)
+-Minimap now shows size more accurately for all objs
+-NEW: Waterspots are now like little puddles, high lvl animals (croc+) can swim in them! (Great hunting spot)
+-all food xp rates have been changed to be formula-based (give feedback for everything on reddit!)
+
+-gorillas can now throw coconuts too (1/8 chance), they hit extra hard!
+-underwater bubbles are more transparent (better for surprise attacks from water)
+-water in water spots now respawns ~2x faster
+-fixed several bugs from the last update (mushroom bush, snowballs, etc)
+-visual: touching hills and rocks now smoothly connect (design improvement)
+-winter skins were removed for now
+-more ocean updates are coming in the near future
+
+Update(March 7):
+-Progress: all food+object spawning code has been re-written (in preparation for food rework)
+-Auto-upgrade is partly back! For low level animals, you can only change animal chains every few levels! (better, more focused game experience)
+-Auto-upgrade applies from mouse->pig (can change biomes at mole), also fox, (then can change biomes normally)
+-All animals now teleport to their correct biome on upgrading (unless becoming ocean animal in a lake)
+-Minimap no longer shows berry bushes/ plankton bushes (preparing for food update)
+-re-enabled water W water shooting (for animals without W abilities), 'S' key still works
+-biome food rework coming out within the next few days :)
+
+Update(Feb 26)
+-Reworked game servers to support https
+-tweaked orca ability: only stuns once, allows easier escape
+-crocs can no longer grab animals up in trees/climbing hills
+-working on a cool new biome food rework, coming out soon :)
+
+Update(Feb 20)
+-slighlty buffed deer & zebra ability: digging gives mushrooms more often, gives better/extra food for zebra
+-Killer whale ability buff: wave is 3X wider, more powerful, can lightly wash animals out of whirlpools!
+
+Update(Feb 19):
+-new mini '3D zoom' effect when animals climb on rocks/hills, or go down in hiding holes/dive
+-NEW: orca wave ability! Waves stuns/wash away predators and prey! Even moves underwater animals
+-yeti ability freezes dragons+krakens longer, yetis and krakens stop burning 3x faster from fire
+-crabs & turtles now climb hills+rocks (as they are half-land creatures!)
+-dragons, yeti are now 20% larger, hippos+ have increased view range
+
+Update(Feb 18):
+-NEW: gorillas can throw bananas from trees to stun prey/predators (ooo ooo!)
+-NEW: dig for food ability: Deer can stand still and start digging for food on W!
+-when digging in mud, dig up lillypads, 2x higher chance of digging up Big Mushroom Bushes
+-click during digging to stop it, Dig is For deer, reindeer, + (temporarily)zebra
+-Fox ability now only activates on right-click (in hiding hole), stuns prey, other tweaks
+-rabbit holes dissapear faster (20 seconds, never if any animal is inside)
+-sandbox has been removed for now (due to it not being fun for long enough, much better game mode coming soon :D )
+-testing new arrows indicating prey/predators
+
+
+
+Update (Feb 14):
+-Fixed sandbox unlimited ability use bug
+-Mole buff: mole can now dig anywhere! (reduced air time, can dig under anything)
+-NEW: awesome fox (+arctic fox) ability: 'Pull from Hole'! Go in any hiding hole and kick out up to 2 animals!
+-Animals get kicked out in order from lowest to highest (you can even kick out predators!)
+-NEW: rabbit + arctic hare ability: Burrow Hole- Press W to dig a hiding hole to hide in! (Great for escaping predators, but watch for foxes!)
+-Halved xp rates of blackberries + pears (prevent too easy lvling!)
+-Water is now outlined light-green to indicate that it's 'edible'
+-water no longer spawns on mud (as mud recharges water anyways!)
+-water now can spawn across the arctic, snowballs no longer drop water
+
+Update(Feb 10):
+-Sandbox feedback implemented: Upgrade/Downgrade your animal with ease!
+-Now Use the ↑ ↓ (up/down arrow buttons) to upgrade/downgrade your animal! (instead of double-click)
+-NEW: Arctic teleporting: you can now become an arctic animal from ANYWHERE, and be teleported to the arctic!
+-Land/Grass animals are now teleported to land when upgrading from arctic
+-Upgrade interface improvements: Animals sorted by biome, The suggested animal choice button is bigger, always to the left
+-NEW: press enter to upgrade your animal to the first choice
+-NEW: press S to shoot/spit water (any animals!)
+-Music in-game has been removed (only a short intro sound left, was too repetitive)
+-press ↓ as a mouse to go right to kraken/dragon/yeti!
+-croc ability tweaked: dragging in mud and water is now faster!
+
+Update(Feb 4) BETA SANDBOX!
+<img src="img/mode_sandbox.png" width=124 height=48/>
+-NEW: Testing out a new game mode: Sandbox!
+-This game mode is still changing quickly, write your feedback on reddit <a href="https://www.reddit.com/r/mopeio/comments/5s1eub/sandbox_feedbacksuggestions_and_discussion/" target="_blank">HERE</a>:
+-Double-click to upgrade your animal at any time! Try out every mope.io animal in full!
+-Any animals can attack any other animals! (Though prey->predator attack damage is only 1/3, no xp is transferred)
+-Leaderboards go by kills instead of xp (since xp can be set by upgrading!)
+-Eating another animal gives you half of it's kills!
+-Leveling up doesn't make you invincible for 3s, and can't be done after being recently hurt
+-Eating any food in-game heals back your health when eating it!
+
+
+Update(Feb 1):
+-Added/Fixed mope.io music! Quickly give your opinion on it <a href="https://goo.gl/efa9vn" target="_blank">HERE</a>:
+-TIP: press mute if you want to turn off mope.io sound/music!
+-I've been moving the mope.io site to new, more powerful hosting! (Site/images will load noticeably faster)
+-A small number of users may not be able to load the mope.io site for the next 24h (looks like you can!)
+-More info on future updates of mope.io coming soon!
+
+Update(Jan 29):
+-NEW: mope.io music! Looping theme songs in-game, and on the menu :) (Credit to N4Fy)
+-Easily turn off music with the MUTE button on the main menu
+-NEW: Awesome croc ability! Press/Release W to bite into animals and drag them around! (Or into water!)
+-The ability can end early by pressing W again, be careful dragging predators!
++ croc dive bubbles are 2X fainter, and croc can hold breath for 60s! (Makes this ability a great surprise attack!)
+-new lillypad graphics, increased lake spawn of lillypads
+-fixed many bugs that you guys submitted
+-more content coming on monday :)
+
+Update(Jan 28):
+-text optimization: player names, and most in-game text is now cached (slower computers will see a boost in fps)
+-arctic animals outside arctic slowdown no longer happens in the ocean
+-For a short time, an official mope.io Kraken t-shirt is for sale <a href="https://goo.gl/cLe1mm" target="_blank">HERE</a>  (high-quality, just 29$)
+-blackberries no longer freeze on eating
+-Cool new content is coming out tomorrow (monday!)
+
+Update(Jan 21):
+-fixed crab/turtle speeds
+-it now only takes 2 snowballs to combine and get food, plus you can now shoot water at snow!
+-donkey kick slowed down to 8s interval, reduced stun time by 0.5s
+-mammoth swim speed increased
+
+Update (Jan 20) SNOW!
+-NEW: snow across the arctic! Push snow together until it pops to reveal frozen food!
+-NEW: blackberries (low lvl food) and pears (higher lvl food), findable within arctic snow!
+-NEW: mammoth animal (equal to hippo)- rolls a strategic snowball- the longer the snowball rolls, the bigger the freeze on impact!
+-NEW: donkey animal! (equal to zebra)- does a back kick that knocks back/stuns all animals, injures predators!
+-NEW: reindeer 'shoot snow' ability (freezes for a short time), arctic hare 'drop snow' ability (helps escape predators)
+-Dragon has been rebalanced: fire shoots max every 2s, move speed boosted!
+-Dragon battles: dragons can hit each other with fire! (50% damage) + move through each other to battle!
+-Dragons can now dive underwater! (Cant dive for 1s after shooting fire)
+PLUS:
+-Dragons that wait for over 5s since the last fire shot will shoot fire 50% farther
+-yeti freeze range increased
+-Animal speeds are now based on animal lvl function, ocean animals are 9% faster in water, many animal speeds have changed a bit
+-diving in lakes in more precise on the edges
+-fixed firefox screen glitching bug
+-yeti is now equal to dragon in the food chain
+
+Update(Jan 17)
+-Big performance bug fix: many lagging Safari & Chrome players will notice MUCH smoother gameplay
+-Animals shrinking from getting hurt tweaked, 'tiny animals' re-added! (Let your xp get very low, and your animal will be tiny!)
+-dragon bugs fixed: fire works again, being on-fire drains water again, + dragon speed boost, fire shoots every 1s again
+-rock hills changed back
+-mole can now go under-water
+-dragons now move full-speed in water
+
+Update(Jan 15):
+-NEW: bear+polar claw slash ability! Hits damage, slightly stuns prey, powerfully stuns predators for 3s!
+-I hear you guys! Dragon fire nerf: fireballs no longer hit underwater animals, going in a hiding hole ends being on fire,
+-Plus, weaker fireball impact damage, being on-fire no longer drains water faster,
+dragon moves even slower, fire effect lasts half the time on un-edible animals, fire shoots every 1.5s (slowed from 1s)
+-fixed dragons moving through each other/krakens
+-charge nerf: rhino, swordfish, muskox 'charge' now stuns for 1.2s (down from 1.5), does slightly less damage, ~30% reduced charge speed
+-rhino slighly faster than reg. animals on mud (due to nerf of charge)
+
+Update(Jan 13) Dragon fire!
+-NEW: Dragons can breath fire, with their new ability! Fireballs damage on impact + light the prey on fire!
+-NEW: Animals can now catch fire! (Fire lasts very little time in water!)
+-NEW: shark + killer whale get the 'speed dive' ability, give a speed boost every 8s
+-NEW: hippo gets the 'groan' ability, similar to lion roar- more powerful when in lakes/oceans
+-When on fire, you take light damage, your water bar will drain 3x faster! (Sweating?)
+-Hint: drinking water drops helps put out fire much faster! (Shoot water at on-fire animals to help friends!)
+-Bananas and Coconut xp boosted by 50%+ (animals who climb trees get 30% less xp than non-climbing from bananas/coconuts)
+-Rock hills got a new design! (Credit: Shaun Goodwin)
+-arctic animals are now 25% slower outside the arctic, and non-arctic animals are 25% inside the arctic.
+-read full update info on the changelog
+-ice sliding no longer times out
+-fixed bug 'diving on snow' near top of oceans
+-wolf howl now ACTUALLY affects predators, bug fix
+-animals can once again dive when using an ability (eg. swordfish diving after starting charge)
+-dragons now can no longer dive underwater (they fly, and their fire would go out!), now move 10% slower (because of their new fire ability)
+-killer whale will likely get a 'unique' ability in the future, atm it's ability is for balance
+-wolverine/yeti swim much better now
+-hippos lose water slower
+-rhinos are slowed by mud again, non-water animals cant charge in water
+
+
+Update(Jan 9) Ability Interface!
+-NEW: A sweet Graphical Ability + Diving interface! (Took a while to add, as it required re-coding significant parts of the game!)
+-You now always know when you can use dive/use an ability! (if an ability is faded, you cant use it!)
+Leave feedback on the new interface, It's still being tweaked :)
+-lion roar/ wolverine growl nerf: no random bigger range, 25% lower stun time
+-wolf howl now 'scares' animals dangerous to wolf, but with lower stun/damage
+-smoother left-click boosting in the oceans
+-shell move speed increased
+-diving is no longer possible when using an ability (eg. rhinos cant charge underwater!)
+-Adding a heap of new abilities soon- across all animal groups!
+-New mope.io logo! (Big thanks to designer Pike_YT)
+
+Update (Jan 4) ARCTIC ABILITIES!
+-NEW: freeze effect, similar to stun, with different mechanics! (can be caused by arctic abilites)
+-NEW: yetis have an awesome new multi-target freeze ability + disguise ability (hold/release W to use)
+-NEW: wolves now have a scary HOWL ability, which freezes/SCARES your prey into running! (try it out!)
+-NEW: lion has a powerful ROAR ability, which can knock back, stun and damage prey from a distance! (randomly has a bigger range!)
+-NEW: cheetah + snow leopard get a new extra-boost ability! (Press W to boost again, on command, every 8s)
+-NEW: wolverine gets a growl ability, similar to lion's roar
+-VOTE on lemming/chipmunk and wolf! <a href="https://goo.gl/4m4M71" target="_blank">VOTE LINK</a>
+-kraken underwater time reduced to 1min 15s (was 5 mins!)
+-arctic animals are 10% slower OUTSIDE the arctic, non-arctic animals are 10% slower IN the arctic (encourages correct animals in biomes!)
+-chipmunk and snow leopard graphics improved
+-yetis can no longer climb hills/go in mini hiding holes
+-fixed lots of bugs (from userreport and reddit)
+-Coming soon: graphical controls to see when you can use/re-use an ability!
+
+Update(Jan 1)
+-Happy new year to all mope.io players!
+-I've finally re-coded all current animal abilities (report any bugs below!), in preparation for graphical controls! (Coming soon, will display when you can re-use an ability)
+-animals that 'turn well on ice' now move 50% faster and turn even better!
+-animals that 'slide on ice' now slide 30% faster, weee!
+-NEW: chipmunk animal, replaces 'lemming'
+-wolf was moved down the food chain, is now equal to cheetah
+-there is now 50% more ice at the arctic!
+-NEW: muskox can now charge with it's horns (press W)
+-octopus can now also disguise as an ocean whirlpool
+-several animals have gotten speed boosts: lion, wolf, dragon (slightly), yeti, wolverine
+-rhino speed reduced (because of big horn boost)
+-water-friendly arctic animals (penguin,walrus,seal,polar bear) can now swim better
+-the octopus has an easier time diving after using it's disguise
+-coming soon: more actic animal abilites (land ones too!), graphical controls!
+
+Update(Dec 28) Arctic Biome release#2:
+-The arctic biome is now wider, over 3X the old land area!
+-NEW: ice in the arctic biome! (You will slide with little control when walking on it!)
+-NEW: ice-sliding ability: penguin, seal, walrus can hold W to slide fast across ice! (move 1.7X faster, no timeout!)
+-NEW: ice-grip ability: These animals have exceptionally-good grip on ice: turn even faster on ice than on land: reindeer, muskox, wolf, yeti
+-NEW: wolverine animal (equal to rhino)
+-Arctic animals don't slide as hard on ice as non-arctic animals!
+-seal,walrus, yeti can now climb hills + rocks!
+-yetis can now (magically) fit inside tiny hiding holes! (freeze ability coming soon!)
+-Lakes now exist in the arctic biome, lots more cool arctic stuff coming soon! Leave your feedback on reddit!
+
+Update (Dec 26) Arctic Biome Sneak Peek!
+-NEW: There's now a north pole in mope.io- the ARCTIC BIOME! (Lots of you guys wanted a sneak peek, so here it is!)
+-Stay in the Arctic (snowy) region to be able to upgrade to arctic animals!
+-NEW: 12 new arctic animals released early! (Special animal abilites coming later!)
+-Animals are: lemming (snow mouse), arctic hare, penguin, seal, arctic fox, reindeer, muskOx, snow leopard, walrus, polar bear, wolf, abominable snowman!
+-Suggest what unique abilites some of these animals should have! (post it on reddit, link below!)
+-Lots of Arctic updates coming soon!
+
+Update(Dec 25) MERRY CHRISTMAS II!
+-NEW: For all of today, enjoy double (2X) xp for all edible food in-game!
+-Done an optimization overhaul of game physics, meaning the game runs smoother!
+-Optimized server load to allow for a larger game area! (Preparing for arctic biome)
+-Mope.io is seeing warmer weather for christmas- snow theme removed! (In preparation for arctic biome!)
+-Actic biome delayed until tomorrow, (I'll be working on it during Christmas day :)  )
+-reduced banana spawn rate to match coconut
+-fixed bugs with new physics
+
+Update(Dec 21) WINTER!:
+-NEW: winter has frozen up mope.io, you'll notice snow all over many places!
+-NEW: enjoy over 30 winter-themed mope.io animal skins! (Just click share mope.io on facebook/twitter/vk at the bottom to unlock them ALL!)
+-to turn off winter skins for your animal, click the check-mark again
+-Leave feedback on the winter theme (link at bottom)!
+-fixed bugs with shell use when hurt (turtle+crab
+-fixed squids not hiding in berry bushes!
+-Fixed hill water drain/diving bugs with bears/gorillas
+-fixed teleporting bugs
+-xp over 1000K no longer has a decimal point
+
+Update(Dec 18):
+-NEW: Smart teleport: when upgrading ocean->land OR land->ocean animal, you will be placed NEAR where you upgraded!
+-Animals good in both land/ocean (hippo, crab, turtle, croc, dragon) will not be teleported!
+-Land animals now teleport to land if upgrading in the ocean!
+-You can now choose always choose land/ocean animals at any stage!
+-Mole now comes before fox in the food chain (as requested by many!)
+-Seahorses move just as fast as squid now (So they have an easier time hunting)
+-lion is now above cheetah in the food chain!
+-Cheetah is now extra fast- faster than most of it's prey!
+-coconuts spawns at a controlled rate, coconut trees bug fixed
+Coming soon: A Christmas/Winter theme for mope.io!
+
+Update(Dec 16)
+-Octopus now teleports to the ocean, as expected, moves faster when disguised,cant be tailbitten when disguised
+-Improved octopus ability: prey that touches disguised octopus is hurt+ stunned for 2.5s, + octopus releases ink on getting bitten when disguised!
+-dragons now don't move through krakens/each other
+-bananas slightly less common, coconuts more common (coconuts are ~2X the xp of bananas, 1/3 fruit trees gives coconuts)
+-reduced xp rate for bananas/coconuts (for gorillas/bears, as they lvled up too fast)
+
+Update (Dec 15) YUMMY FOOD!:
+-NEW: banana trees, with Banana food! This is high-level land food, edible by lion+ (Easily reachable by gorillas!)
+-NEW: coconut food! Also high lvl food (gorilla+), (3x rarer than bananas, more xp) spawns in special trees (only spawns on land areas, will make land more attractive)
+-NEW: octopus animal! Is equal to croc, (upgrade from swordfish)- Can use W to disguise itself as many common game items!
+-(Great for hunting, if prey bites a disguised octopus, it gets hurt/stunned!)
+-octopie are immune to squid ink
+-Fixed pufferfish bug- pufferfish now stuns prey (things it can eat) for 2s, making puffing near prey a good hunting ability!
+-6 new USA servers (4 nyc, 2 cali)
+
+Update(Dec 14):
+-mobile users can now RUN while holding W (just slide your finger down to the run button after pressing W!)
+-hint: you can play mope.io with ONLY the mouse, by using right-click instead of W!
+-Fixed 5M+ xp server crash bug
+-Animal sizes were adjused (many animals will appear smaller on upgrading, but will grow big!)
+-Fixed huge-sized animals on upgrade bug
+-Crocs and hippos now swim faster, 93% as fast as their equal water animals.
+-Crocs can now move through berry bushes
+-Pufferfish can now re-puff 6 seconds after puffing up (down from 7)
+-Crocs and hippos now swim faster, 93% as fast as their equal water animals.
+-New food type + new animal(s) + animal abilites coming tomorrow!
+
+Update(Dec 12) SELECTIVE BRANCHING!!:
+-NEW: choose if you want to spawn in oceans or land!
+-NEW: selective branching! Choose which animal you'd like to upgrade to when you level up!
+-Selective branching unlocks loads of potential for mope.io, allowing loads of new animals in the game, coming in the future!
+-Tip: Selective branching offers land animals & ocean animals, depending on where you are when you lvl up!
+-Leave your thoughts/feedback on selective branching!
+
+-NEW: gorilla animal: gorillas are extra fast at climbing hills, but are slower on land! Gorillas are an option upgrading from lion/stingray
+-gorillas are good swimmers (slightly faster than bears, which try to hunt gorillas!)
+-gorillas boost 20% faster on hills (great for ambushing prey!)
+
+-Read full update on the changelog (link at bottom)
+-Rhinos buff: they now move through mud 2x faster, stun for 1.5s with their horn,
++ rhinos can  now swim as fast as bears in water, can move through water spots
+-all animals (other than kranken+dragon) can now hide in ocean whirlpools
+-pufferfish can now only stay puffed for 8s max, have a longer recharge time- plus stun time from puffed mode reduced for predators
+-high-lvl fish speeds were rebalanced
+-5% more xp is kept on respawn!
+-swordfish move slightly faster
+-walking on hills in mud/water no longer slows you down!
+-ocean animals can now upgrade to ocean animals while in lakes!
+-the +food interface now shows ALL food when spawning
+EXTRA PRO TIPS:
+(Eg. Upgrade in a lake/ocean to choose ocean animals!)
+-Animals turtle and below, you will only be offered land animals on land, ocean animals in the ocean! (to keep it simple for new players)
+-You can change to the other branch by lvling up in the right place. Eg. on land to become land animal.
+-The lvl-up location counts when the "choose an upgrade" interface appears
+For animals turtle+ , you can become a water OR land animal no matter where you are when lvling up.
+-kraken are now immune to jellyfish stings
+
+
+Update (Dec 11) :
+-17 new servers:  4 new russia servers, 11 new brazil servers, 1 new australia, 1 new singapore
+-NEW: servers are now divided by region (Because the server list is getting too long)
+-I've been working on LOT of behind the scenes stuff for the past few days
+-BIG update coming tomorrow morning (delayed from today): (HINT: selective branching!) + new animals + more!
+-orcas now show a blow-hole when underwater
+
+Update(Dec 7) AWESOME NEW ANIMALS:
+-NEW: Puffer Fish animal! Puffs on pressing W: grows to double size, hurts any animals on contact + takes 40% less damage! (Works on land too!)
+-NEW: Swordfish animal! Press W to rush with high speed, do extra damage on impact (somewhat like rhino!)
+-NEW: Killer whale (evolves from croc, in ocean)! Breathes quite well on land (great for chasing land prey out of water)
+-Killer whales blow water out when diving, (and sometimes other goodies!)
+-servers are now limited to one game lobby each, fill up at 600 players (+100 for party players), (this will end overfilled-server stutter).
+-Kraken's whirlpool suction lasts 0.5s less time (to make it somewhat possible to escape)
+-kraken now can't get tail-bitten during the first 2s of their special attack
+-'Low graphics' setting now hides New +"what you can eat" interface
+
+
+Update(Dec 5) BEWARE THE KRAKEN!:
+-NEW: kraken animal = ocean version of dragon (upgrade from a shark/hippo in the ocean to get it!)
+-Kraken have a whirlpool ability that sucks all animals in towards it's mighty jaws (release W to use, every 12s)
+-Shark is now equal to hippo, but is in the ocean branch (croc upgrades in the ocean=shark, upgrades on land=hippo)
+-Turtle and crab are now much faster on land (only 10% slower than equal land creatures)
+-Pigs can now swim almost as fast as a croc in water (in lakes/oceans)
+
+Update(Dec 4)
+-NEW: awesome new edbile food interface- on upgrading to an animal, you are shown what new food/animals you can eat! LEAVE me FEEDBACK on this new feature!
+-Due to highly crowded worlds, oceans have been made +50% larger! (And the resulting game area is 36% larger!)
+-Fixed underwater flicker invincible bug
+-Stingrays now have a +1.5s extra delay for diving after shocking (to give predators a better chance of retaliating)
+- PLUS Finally Fixed leaderboard wrong rank# bug! (You can now rank up to #450 in a room!)
+
+Update(Dec 2) TWEAKS:
+-Stingray shock no longer hurts players that are underwater+ can only use shock every 8s now + multiple shocks at once don't do extra damage
+-Oceans are now 10% wider (due to them being so crowded), less lillypads in oceans, sand islands are more spread out
+-Rhinos no longer push through hills when charging (they still go through water spots on charge)
+-Rhinos now slightly stun those hit with a horn charge, rhinos no longer shoot water at all
+-Fixed bug where bears can get bitten on hills in oceans
+-Cheetahs can eat lillypads
+
+Update(Dec 1) STUN UPDATE!
+-NEW: awesome new stun mechanic in-game: being stunned slows down movement + turning
+-NEW: stingray now has an amazing 'electric shock' ability: shock damages ALL animals in range (Press/release W to use it)
+-NEW: squid can now shoot INK when recently injured (by pressing W/Left click)- ink stuns all animals on contact
+-jellyfish now stun + damage animals that bump into their tentacles (at their back)
+-fixed bug of always spawning in oceans, + animals can now randomly spawn as ocean OR land animals when spawning with +XP
+-dragons now start smaller, grow in size when gaining xp- up to 5000K xp ( can be up to 3X larger )!
+-Plankton bushes are more common, are bigger (better for hiding), Only turtle+ can go through plankton bushes
+-Water spots on land are bigger (better hunting spots again)
+
+Update(Nov 30):
+-NEW: jellyfish now sting! (Bumping into the back of a jellyfish causes you to get damaged, gives the jellyfish 1% of your xp, up to 1K)
+-foxes can now hide in small hiding holes
+-cheetah speed slightly boosted (leave feedback!): same fast as deer now, in now slightly faster than lion and zebra
+-4 new USA servers (2x new york, 1 seattle, 1 Chicago)
+-fixed several bugs: bear getting water on mud hills, ocean land animal on upgrading, etc.
+-Coming very soon: cool new unique abilites for several animals. Hint: squid ink! :)
+
+Update(Nov 28) 4 NEW ANIMALS:
+-NEW: 4 new ocean animals (to continue on the ocean branch!)
+-NEW: Seahorse (comes after squid)
+-NEW: Jellyfish (these can grow very large, turn slowly, comes after seahorse)
+-NEW: Turtle: hold W to hide in your shell on land! (This reduces damage/xp loss taken by 70%, reduces move speed by 50%, turtles live on land quite well)
+-NEW: Stingray: (after turtle, =lion )
+-Crabs can now hide in their shell by holding W/right click (on land)
+-Bears now drain water when on hills inside lakes/oceans
+-Rhinos made fun again! + can now charge though water spots (to better hunt crocs)
+-NEW: feedback forum (click the link below to submit your ideas, and vote up the best ones!)
+-Coming soon: more unique abilites for ocean animals!
+-Mole now comes before deer (due to lots of feedback) + lillypad xp increased to 75xp, mushroom bush to 1.2K
+-Water restores 2x faster in oceans/lakes for ocean animals
+-Ocean animals now have corrected camera zoom levels
+
+
+Update(Nov 27):
+-Rhinos nerf: rhinos now turn around slower, charge 10% slower, can only SLIGHTLY move onto dark green hills when charging (lots of feedback on this)
+- Hills are now randomly ~30% wider- plus, 1/15 chance of being of extra wide (huge hills).
+-plankton is now ~2X more common, with tweaked eat-xp amounts for different animal lvls
+-Ocean whirlpools: land animals can now use them! (zebra and below), ocean animals no longer lose water quickly inside whirlpools
+-7 new game servers (yes, the list is getting long!): 2 germany, 2 brazil, 2 russia, 1 in tokyo
+-Mobile joystick now makes it easier to stay still (in hiding holes)
+-Coming very soon: brand new ocean animals!
+
+Update (Nov 26):
+-NEW: ocean whirlpools (ocean animals + croc + hippo can hide from predators in these, sharks can't use them!)
+-Plankton (orange circles) in oceans now gives 2X xp for higher animals, more of it spawns (will make oceans more attractive for mid-tier animals)
+-Oceans now have a blue background at the border
+-Shark fins while diving tweaked, all animal diving bubbles are fainter
+Let me know your thoughts on reddit (<a href="https://www.reddit.com/r/mopeio/comments/56a1kc/mopeio_feedbacksuggestions_thread_post_here/" target="_blank">HERE</a>)
+
+
+Update(Nov 25):
+-Fixed joystick getting stuck on mobile
+-Working on new ocean content release
+
+Update (Nov 24):
+-NEW: orange plankton food in oceans (mid tier food, gives 7-14xp ea, edible by crab+, and by all land animals- to attract land animals in the water)
+-Sharks now show a fin when diving underwater
+-Underwater bubbles now rotate along with your animal (same for mole digging effect)
+-mushrooms by themselves/water dont spawn in oceans anymore
+Let me know your thoughts on reddit (link at bottom)
+
+Update(Nov 23):
+-Increased xp for higher-level animals (and lowered animal-eaten xp back to 50%)
+-Dragons can now fly over rocks
+-Ocean animals now move more smoothly
+-Animal push power now depends on animal size (large animals will push small ones away easily)
+-Working on implementing new animals feedback, working on new ocean content
+
+Update(Nov 22) HUGE OCEAN animals release!:
+-NEW: 5 new Ocean-themed animals: shrimp, trout, crab (walks sideways), squid,+ shark (after hippo).
+-(shrimp is equal to mouse, crab= rabbit, etc), but shark is high-lvl (after hippo)
+-TIP: ocean animals are great in water, but terrible on land (they lose water fast!)
+-NEW: ocean animals are auto-branched for now: (if you upgrade your animal while in an ocean, you will get an ocean animal, leave the ocean + upgrade to get a land animal)
+Let me know your thoughts <a href="https://www.reddit.com/r/mopeio/comments/5ea8ju/updatenov_22_huge_ocean_animals_release/" target="_blank">HERE</a>
+-Oceans are now 2X wider, have new color: (thanks to the poll)!
+-rhino charge damage now 1.6x (down from 2.7X)
+-lillypads in oceans
+Coming next: ocean-specific food, hunger meter for ocean, more! :)
+
+Update (Nov 21) Oceans sneak peek!:
+-NEW: oceans have been discovered on the left/right edges of mope.io!
+(This is a sneak peek, with many oceans updates coming soon, including NEW ocean-specific: animals, food, hiding areas, branching, and MORE!)
+Let me know your thoughts on reddit <a href="https://www.reddit.com/r/mopeio/comments/5e3eua/oceans_sneak_peek_update_leave_feedback_here/" target="_blank">HERE</a>
+-Game area 33% larger (to accomodate oceans), 350 max players per game! (up from 250)
+-NEW: minimap shows sand islands, oceans, + has more accurate sizing
+-All animal xp requirements have been reduced further (to make it easier to reach higher animals, according to feedback).
+Read the full update on the <a href="http://mope.io/updates.txt" target="_blank">changelog</a>
+-----------------
+-Killing other animals now gives 62% of the dead animal's xp, not 50%! (Plus a new bonus 0.5% of your OWN xp [ limit +1K], making killing small critters more worthwhile)
+-Deer have gotten a craving for meat! (Deer can now eat animals, not just mushrooms!)
+-Non-water animals now can't dive for as long
+-improved joystick for mobile
+-you can once-again use boost while underwater
+-new ocean animals were delayed today due to last-minute issues, coming soon!
+
+
+Update (Nov 20):
+-I've been hard at work for the past several days on oceans + branching (Part 1)- This is coming out tomorrow! Expect several new animals :)
+-Server selection now packs players in more popular servers in a smart way. (To increase player concentration at night)
+
+Update (Nov 18):
+-Chat now shows multiple lines, lines stack on top of one-another, (better hiding-hole chat sessions!)
+-Added left-handed mode (for mobile users)
+-Working on branching & Oceans Part#1 (more info tomorrow
+
+Update(Nov 17):
+-Added 2 new (Sao Paulo) Brazil servers! (Replaced the texas ones)
+-Animals of the same kind no longer can bite each other's tails. (Due to lots of feedback!)
+-Players will now always respawn in the same game lobby as they died in (bug fix)
+-Started work on implementing branching :)
+
+Update(Nov 16) Android APP!
+-NEW: Android mobile app is LIVE! It's finally, here- android mope.io :)
+(Download link <a id="appAdIOS_news" href="https://play.google.com/store/apps/details?id=tatarnykov.stan.mopeioandroid" target="_blank">HERE</a> Or on the bottom right corner!)
+Leave feedback on the app on the REDDIT PAGE at http://reddit.com/r/mopeio !
+-fixed zooming bug, greenscreen (for mobile)
+-New: awesome joystick controls (for all mobile users!) -(Old controls can be used by turning off joystick in settings)
+-New: Low-graphics mode for slow phones/pcs- just in time for android (turn it on in the gear options)
+
+
+Udpate(Nov 15):
+Dev- Update on the oceans and the future of mope.io!
+Read it on reddit: <a href="https://www.reddit.com/r/mopeio/comments/5d4j5f/dev_update_on_the_oceans_and_the_future_of_mopeio/" target="_blank">LINK</a>
+
+Update (Nov 14):
+-New 2nd California server
+-Party links now expire after 10h, not 1h
+-New option to hide names/chat (reduce lag, hide profanities for kids)
+-Coming very soon: mope.io Android app + mobile joystick controls! (with remove option)
+-Starting full-time work on animal branching (for oceans) tomorrow!
+
+Update (Nov 13):
+-New: 2 East-Eurpoe (Moscow) servers! (finally resolved several issues)
+-New: PARTY LINKS! Click 'Make Party' (top-right corner) to get a link, where anyone can join your specific game!
+-fixed inflated player count bug (real peak player count today was ~8000, not 12000!)
+-player count now gets updated every few seconds
+-Party links: extra planned features (eg. spawn next to friends, friends on map) not added to reduce teaming
+
+Update(Nov 11):
+-New Chicago USA server
+-NEW: auto server-selection! When visiting mope.io, you will automatically join a low-lag server for your area.(You can still change it manually)
+- many animal xp amounts were reduced/rebalanced (after game testing/feedback, as too few players reached higher animals)
+-Test it out, and enjoy the higher-level animals!
+-Mole/Bear slightly faster to balance hunting ability
+-Vote on the auto-server selection update:<a href="https://www.quiz-maker.com/Q0PPBMK" target="_blank">POLL</a>
+
+Update(Nov 10):
+-Working on reducing/rebalancing many animals' xp (This will be released tomorrow)
+-still working on a bunch of behind-the-scenes stuff
+
+Update (Nov 9):
+-NEW: Servers choice list now shows # of players online in each server
+- # online (bottom right corner) now shows TOTAL players on mope.io, not just in the current server (updates on page refresh)
+-Rhino buffed:(improved to be able to hunt bears/crocs): 10% faster in water, can charge through hills (slowly), better charge aiming
+-Lowered xp needed for hippo/dragon
+-Tail biting slowed down- animals can now get tail-bitten every 4s (was 2s)
+-Tail biting: continuously geting tail bitten (15s cooldown) reduces xp taken by 50% (damage still 100%)
+-working on a bunch of behind-the-scenes stuff atm
+
+Update (Nov 8):
+-NEW: Brazil Sao Paolo server finally live (New host)!
+-NEW: camera zooms slightly in when in hiding hole/underwater (perspective effect)
+-Food chain speed tweaks: tweaked several animal speeds to match yesterdays re-ordered animals (should be less people stuck at mole now!).
+-Rhino tweaks: rhinos move faster, have better control at end of charging, do more damage on charge impact, turn around faster to protect from tail biters!
+-hippos slowed down slightly.
+-Coming next: server backend remake= auto server selection (for minimal lag) + server players #s shown
+
+Update (Nov 7) Charging rhinos!
+-NEW: rhino animal (after croc), can charge in a straight line, and knock back prey for 2X damage! This is VERY fun to use, try it out!
+-NEW: mole,zebra,lion re-ordered to be more intuitive, as highly requested! (lions can now eat zebras! + moles are lower down)
+-New animal order:  mouse,rabbit,pig,fox,deer,[mole],[zebra],[lion],cheetah,bear,crocodile,rhino,hippo,dragon
+-hippo & dragon have 20% higher hp now
+-highest-lvl animals can no longer eat animals below pig
+-Reduced delay before diving possible when damaged
+-BE SURE TO LEAVE FEEDBACK ON THE CHANGES, ON <a style="color: rgba(255,255,255,0.7);" id="appAdIOS_news" href="http://reddit.com/r/mopeio" target="_blank">REDDIT</a>
+
+Update(Nov 6):
+-Added 2 more servers: New york and london (new faster server provider!)
+-Animal turning was made smoother looking
+-Hiding holes no longer spawn fully under rocks
+-Animals can now 'bully'- you can bite the tails of equivalent animals (with 50% reduced bite damage/xp) (thx. to PUER)- should be fun, leave FEEDBACK on reddit!
+-Bug fixed: cant bite bears on hills from underwater/underground (PUER).
+-To reduce tail-biting 'oppurtunists' in lakes, lower animals are now 10% slower in water
+-Rhino coming tomorrow, meanwhile, working on behind-the-scenes stuff to improve servers
+
+Update( Nov 5)
+<li>Added 5 new servers to better handle increased # of players (hint: pick the server nearest to you, to minimize lag!)</li>
+<li>Working on further lag improvements, + automatic server selection! </li>
+<li>Mobile site users: app redirect now happens only on first site open</li>
+
+Update (Nov 4) iOS mobile app!
+-NEW: iOS mobile app is LIVE! An optimized, improved mobile mope.io experience :)
+(Download link <a id="appAdIOS_news" href="http://goo.gl/kYMJyU" target="_blank">HERE</a> Or on the bottom right corner!)
+Leave feedback on the app on reddit!
+-NEW: LAG FIX PART 2!!!!!!!! You may notice, there is less lag today- :) Vote on LAG POLL 2: <a href="https://goo.gl/EAeHMB">LAG VOTE 2</a> -
+-Mud spots are 1.3X wider, slightly less common, 50% more mushrooms spawn in mud
+-Standing in mud now slowly refills your water (at 0.4X the speed of lake regen)
+-Pigs now get 8xp from mushrooms (prev. 12xp)
+-Chat now works in all languages/ чат работает на русском языке!
+
+Update (Nov 3) More Bug fixes + Stay tuned:
+-was super busy the last 2 days finishing an amazing mobile app for you guys (it's going to be out VERY SOON!)
+-fixed zebra water bug + now dragons very slightly slow down on water (no server reset, will be out tomorrow)
+-new Brazil 2 server (hosted in Texas)
+-hint: shoot water at red mushrooms to break them!
+-Coming soon: easy links to join your friend's server (and spawn near them!) + lag fix part 2 :) (And then oceans !?) Stay tuned :)
+
+Update (Nov 2) Bug fixes:
+-Fixed pig bugs, working on more advanced lag fixes (from the poll: >50% of lag is fixed, now to fix the rest!)
+-Working on releasing a mobile version soon!
+
+Update (Nov 1):
+-LAG fix part 1 (game should lag less!): vote on lag poll here: <a href="https://goo.gl/KU4zAT">LAG VOTE</a>
+-New hill spawn algorithm- hills are more evenly spread across the map.
+-When running (holding mouse), you randomly run slightly faster/slower (10%)- sometimes you will get away when you shouldn't have, sometimes you will get bitten :)
+-Boosting/running(left-click) is now possible underwater
+-Animals now get damaged when out of water (dont die right away)
+-You can now dive underwater when below full hp (after 2s from last damage)!
+-You can now pass through dark-green hills when underwater.
+-More content is coming soon, just finishing some
+-Disabled joystick on mobile site (note: no mope.io app is out yet, it's still in development!)
+
+Update (Oct 31) :
+-Happy Halloween! Berries have turned into (orange) pumpkins for today!
+-reduced xp needed for cheetah and mole (to 18K, 42K)
+-Mope.io mobile version now has chat, joystick controls. (Leave feedback!)
+-mole dig time reduced to max 25s, mole cant dig under water spots now
+-dead (of thirst/dc) animals now drop red mushrooms as well
+-Lag reducing update coming soon!
+
+Update( Oct 30) New Animal graphics (2/2):
+-NEW: ALL animal graphics (zebra+) have been updated to the new ones! (Plus some were tweaked)- Leave feedback on reddit!
+-Added option to NOT use new images (click the gear button!)
+-NEW: use spacebar to run (instead of left-click)
+-NEW: mobile users now have touch controls (run/shoot/dive!)
+-I'm mostly working on the mobile app right now.
+-Mole and zebra can no longer eat mice
+-Tweaked boosting speed + damage bounceback +attack interval (0.7-> 1.0s)
+-Deer no longer move faster in water.
+-Lag reducing update coming soon!
+
+Update( Oct 29) New Animal graphics (1/2)
+-New animal graphics! (up to lion)! (Thanks to /u/Pike_YT !)- Leave feedback on these (on the reddit page, link below)
+-Working on the mobile version for you guys (highly requested!), touch buttons, iOS and android apps!
+
+Update (Oct 28)
+-I hear you guys!, I've tweaked the game some more:
+-Game area is now 33% larger(less crowded), 5 lakes per game instead of 3!
+-Players with smaller screens can now see farther!
+-Doubled network game update rate: game should look much smoother (give feedback on change in lag!)
+-Fixed eating : Cheetahs can now eat zebras + mushrooms(requested), moles can eat cheetahs and below, bears can eat moles and below
+-50% more mushrooms in the game (per sq. unit), 250 max players per game
+-Better xp on tail-biting: 40 + (2% of bitten animal xp) (With a limit of 3Xing your xp through this per bite).
+-NEWS: mope.io has broken 100K daily players!
+-Smoother boosting (move father on boost)
+
+
+Update (Oct 27) Game re-balance!
+-Thanks to your awesome feedback on reddit, I've reworked and rebalanced the game!
+-significantly less mushrooms in the game, reduced many food xp rates (lillypads, red mushroom)- encourages hunting
+-mole now comes after cheetah (no longer top predator!)
+-zebra now comes after lion (mole and cheetah positions were considered thoughtfully )
+-red mushrooms can be more easily broken (shoot water at mushrooms to break them)
+-Mole was made larger, faster, better in water, less visible underground, try it out!
+
+-Read all changes at <a href="http://www.mope.io/updates.txt">changelog</a>
+
+-afk players now get disconnected after 15 minutes (60 mins in-game)
+-Cheetahs, again, can only hunt animals to eat (no mushrooms to eat)
+-33% of Mushroom bushes now spawn on lake islands (encourages zeebras+ to visit lakes)
+-based on feedback (thanks for voting): improved look of green outline, removed it for water (all animals can drink water!)
+-limited tail-bite xp steal to (1000xp or 2% of bitten animal's xp, whichever is lower)
+-lakes got a more 'beachy' look
+
+
+
+Update (Oct 26) HUGE content release! :
+- NEW mushroom bushes food spot! (assorted mushrooms spawn near them, these bushes are killable,and respawning! Zebra+ can attack these)
+- NEW zebra animal (after cheetah), can eat NEW mushroom bushes (2K xp ea!), and has a funny trait (reach it to find out!)
+- NEW mole animal (Go in and hiding hole, and hold right-click + move to dig underground! The mole is a top predator, competing with dragons!)
+-NEW feature: everything that you can eat is outlined in light-green (leave feedback!)
+-Increased number of regular/red mushrooms, should be a better xp source
+-Reduced invincible time on animal upgrade to 3s (still 5s on spawn)
+-biting tails now gives you 40xp + 3% of bitee's xp (watch out, predators!)
+-bear speed (on top of hills/in the water) was boosted.
+-crocs are now slightly faster than hippos in water, slower on land
+-2x more water (+mushrooms) spawns at mud now (buffed!)
+Worked super hard (a few nights till 10AM) to get this out, enjoy :) -Stan
+Please leave YOUR feedback (positive or negative) on the REDDIT PAGE at http://reddit.com/r/mopeio (link at page bottom!)
+
+Update (Oct 25)
+-NEW 5 second invincibility on spawning, and on upgrading to a new animal (no more spawn kills).
+-Cheetahs can now eat all mushrooms and lillypads
+-Lake islands are now less common, and smaller.
+-Lakes are randomly larger, lake predators get speed reduced to give prey a better chance to escape!
+-Cheetahs are slightly faster.
+-Some light networking optimizations
+-Coming tomorrow: 2 new animals (animals delayed 1 day) + new food source
+
+
+Update (Oct 24) Lakes improvements:
+-NEW: walkable islands inside lakes (great for outrunning fast water predators!)
+-NEW dark red mushrooms, edible by deer+ (spawns on water islands, 500xp each, 200 for deer)
+-increased xp kept on respawn to + ~35%
+-Diving underwater improvements: now players cant get eaten while underwater, longer air times, you can also hold w for diving
+-30% more large hiding holes.
+-Slowed down cheetah, increased deer xp for eating.
+-fixed several bugs (try using enter to chat, w to go under water), performance improvements
+Coming soon: 2 NEW ANIMALS! (Got lots of feedback, in development ) + more
+
+Update (Oct 23) Lakes improvements:
+-NEW: Animals can now dive UNDERWATER in lakes, just hold the right mouse button!
+-NEW lillypads in lakes, great for swimming under, better food than mushrooms. (5X better xp).
+-Deer can now eat lillypads, mushroom xp decreased for deer(only).
+-Lakes now contain 2X fewer mushrooms & hills, no food spots.
+Coming soon: Walkable sandy lake islands + new high level food, 2 new (very cool) animals!
+
+Update (Oct 22) :
+-dragons move faster,bears climb somewhat faster over hills.
+-All animals have had required xp re-calibrated to make it faster to reach higher animals (give feedback!)
+-Water LAKES update part 2 almost ready, coming tomorrow! (Oct 23)
+
+Update (Oct 21) Water LAKES! (part 1/2):
+-increased respawn xp amount. (now keep ~20% of your xp!)
+-NEW (Sneak peek of) large lakes in the game, check them out (watch out for crocs!)
+-Animals have varying speeds of swimming (most at 0.7 times walking speed), somewhat similar to the mud animals (pig, croc, hippo).
+-Bears move quickly in water, dragons fly over it
+-Water level slowly re-fills in lakes for all animals.
+-1/5 of Mushrooms will spawn in lakes, to attract prey to lakes.
+(Lakes are getting several extra updates TOMORROW, including: animals going underwater, new lake animal,
+ new food exclusive to lakes to attract players into it!)
+-Game area 5% larger, mushrooms are 30% more common now.
+
+
+Update (Oct 20) New animal tweaks, bug fixes
+-Tweaked deer, bear, and other animals to balance them out.
+-Deer is slower, water drains faster.
+-Bear is slightly smaller, moves quicker over hills
+-Animals dying of thirst/ disconnecting now drop part of their xp in mushrooms/new dark food (500xp per eat!).
+-Water shoots farther
+-Entering hiding holes animation bug fixed
+-Preparing for lakes update!
+
+Update (Oct 19) New animals, biting improvements
+-Easier to bite animal tails, 2X more damage from tail bites, large predators turn much slower (easier to bite!)
+-Hippos made more powerful, faster, smaller
+-Small animals can now hide in the BIG hiding holes as well.
+-NEW animal: deer [after fox]: water drains fast, moves fast, eats only mushrooms! Run from lions and above.
+-NEW animal: bear [after cheetah](grr), it's a slow hunter, can slowly climb over green hills!
+
+Update (Oct 18-) The tails update
+
+-new grey 'rock' hills (no animals can move through these)
+-lowered bites-to-kill for all animals, health comes back 3x slower
+-Lowered XP needed for higher animals :)
+-NEW tails update: small animals can finally fight back (this was highly requested), just bite the (green-outlined) tail of a predator!
+-Tweaked animal biting- you must face towards an animal in order to bite it (logical)
+-NEW (big) hiding caves, for predators! (There are very few of these in the game, so they won't take the food chain off balance)
+-Tweaked all animal speeds according to feedback (not by much)
+
+Try out the new release, and LET ME KNOW WHAT YOU THINK! I'm posting update summaries from now on (on reddit, or at http://mope.io/updates.txt)
+
+Stan Tatarnykov, mope.io creator/developer, for business contact, email: clickstan@gmail.com
